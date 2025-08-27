@@ -4,7 +4,7 @@ Este SOP proporciona una guía clara y concisa sobre cómo navegar y utilizar la
 # Key Steps
 
 
-## 1. Introducción al Sistema MedIASys
+## 1. Introducción al Sistema
 
 - Bienvenida al video introductorio 
 - Familiarización con las herramientas y funciones principales del sistema.

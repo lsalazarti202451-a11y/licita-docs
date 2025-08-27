@@ -3,6 +3,8 @@
 ## Objective
 Este SOP detalla los pasos necesarios para convertir leads en clientes en la primera etapa del embudo de ventas, conocida como la etapa de setting.
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/d27786327d82497b863c89e8eae8c9e1?sid=6b488a2d-023f-4649-b192-5a094290ab5e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ## Key Steps
  
 ### Estrategia de Conversión de Leads 0:02

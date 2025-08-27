@@ -16,9 +16,11 @@ theme:
 nav:
   - Inicio: index.md
   - Introducción: intro.md
-  - GHL como herramienta de ventas:
-      - Uso del Sistema: GHL/ghlventas.md
-      - Configuración de Calendarios y agendamiento: GHL/ghlotros.md
+ - GHL como herramienta de ventas:
+      - Uso del Sistema:
+          - Conversaciones y sus funciones: GHL/conversaciones.md
+          - Movimiento en el CRM: GHL/movcrm.md
+          - Configuración de Calendarios y agendamiento: GHL/ghlotros.md
   - Appointment Setting:
       - Embudo de ventas parte 1 (Setting): Appointment/appointmentcontent.md
       - Favoritos: Appointment/favoritos.md

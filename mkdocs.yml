@@ -1,0 +1,24 @@
+site_name: SOP de ventas Lícita consultores
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md
+  - Introducción: intro.md
+  - GHL como herramienta de ventas:
+      - Uso del Sistema: GHL/ghlventas.md
+      - Configuración de Calendarios y agendamiento: GHL/ghlotros.md
+  - Appointment Setting:
+      - Embudo de ventas parte 1 (Setting): Appointment/appointmentcontent.md
+      - Favoritos: Appointment/favoritos.md
+  - Seguimientos:
+      - Procedimiento Estandar: Seguimientos/procedimientoseg.md
+      - Otros: Seguimientos/seguimientosotros.md
+  - Cierre de ventas:
+      - Procedimiento Estandar: Cierreventas/cierreprocedimiento.md
+      - Otros: Cierreventas/ventasotros.md
+
+
+
+
+

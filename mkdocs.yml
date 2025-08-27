@@ -1,6 +1,17 @@
 site_name: SOP de ventas Lícita consultores
+
 theme:
   name: material
+  palette:
+    - scheme: default
+      primary: lime         # Verde lima (navbar, encabezados, links)
+      accent: light green   # Verde claro para acentos (botones, resaltados)
+    - scheme: slate
+      primary: lime
+      accent: light green
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo claro
 
 nav:
   - Inicio: index.md
@@ -17,8 +28,3 @@ nav:
   - Cierre de ventas:
       - Procedimiento Estandar: Cierreventas/cierreprocedimiento.md
       - Otros: Cierreventas/ventasotros.md
-
-
-
-
-

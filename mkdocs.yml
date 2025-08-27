@@ -16,7 +16,7 @@ theme:
 nav:
   - Inicio: index.md
   - Introducción: intro.md
- - GHL como herramienta de ventas:
+  - GHL como herramienta de ventas:
       - Uso del Sistema:
           - Conversaciones y sus funciones: GHL/conversaciones.md
           - Movimiento en el CRM: GHL/movcrm.md

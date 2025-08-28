@@ -4,14 +4,4 @@ El CRM te permite gestionar tus Calendarios y agendamientos
 
 Mira este video explicativo:
 
-
-<div>
-    <a href="https://www.loom.com/share/e505924efd7d48259cb66bdf5d72c542">
-      <p>Gestión y Personalización de Calendarios en el Trabajo - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/e505924efd7d48259cb66bdf5d72c542">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e505924efd7d48259cb66bdf5d72c542-75b29e5ecac242c5-full-play.gif">
-    </a>
-  </div>
-  
-##Parte 1
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/e505924efd7d48259cb66bdf5d72c542?sid=51c44264-a102-4162-ab9a-5037d301b0d6" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
